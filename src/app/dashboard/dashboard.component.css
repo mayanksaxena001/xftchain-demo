@@ -32,6 +32,7 @@
   overflow-y: auto;
   max-height: 250px;
   scrollbar-color: #0b1f21 transparent;
+  min-height: 250px;
 }
 
 .entities-container{

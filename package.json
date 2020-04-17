@@ -10,6 +10,7 @@
     "e2e": "ng e2e"
   },
   "private": true,
+   "homepage": "https://demo.xftchain.club",
   "dependencies": {
     "@angular/animations": "^9.1.0",
     "@angular/cdk": "^9.2.0",
