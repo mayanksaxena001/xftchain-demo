@@ -3,7 +3,7 @@
 // The list of file replacements can be found in `angular.json`.
 // let API_URL =process.env.SERVER_URL;
 // const value = 'localhost';
-let baseUrl = 'https://ec2-13-233-90-57.ap-south-1.compute.amazonaws.com/api';
+let baseUrl = 'https://api.xftchain.club/api';
 export const environment = {
   production: false,
   baseUrl
